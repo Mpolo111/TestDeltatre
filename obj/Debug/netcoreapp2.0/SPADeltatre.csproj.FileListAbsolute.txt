@@ -1,0 +1,11 @@
+C:\Users\marco\Desktop\SPADeltatre\bin\Debug\netcoreapp2.0\SPADeltatre.deps.json
+C:\Users\marco\Desktop\SPADeltatre\bin\Debug\netcoreapp2.0\SPADeltatre.runtimeconfig.json
+C:\Users\marco\Desktop\SPADeltatre\bin\Debug\netcoreapp2.0\SPADeltatre.runtimeconfig.dev.json
+C:\Users\marco\Desktop\SPADeltatre\bin\Debug\netcoreapp2.0\SPADeltatre.dll
+C:\Users\marco\Desktop\SPADeltatre\bin\Debug\netcoreapp2.0\SPADeltatre.pdb
+C:\Users\marco\Desktop\SPADeltatre\obj\Debug\netcoreapp2.0\SPADeltatre.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\SPADeltatre\obj\Debug\netcoreapp2.0\SPADeltatre.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\SPADeltatre\obj\Debug\netcoreapp2.0\SPADeltatre.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\SPADeltatre\obj\Debug\netcoreapp2.0\SPADeltatre.AssemblyInfo.cs
+C:\Users\marco\Desktop\SPADeltatre\obj\Debug\netcoreapp2.0\SPADeltatre.dll
+C:\Users\marco\Desktop\SPADeltatre\obj\Debug\netcoreapp2.0\SPADeltatre.pdb
